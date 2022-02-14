@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Patil</h1>
 <h3 align="center">A Data Science Enthusiast</h3>
 
-- 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing**
+- 💬 Ask me about **Python, Statistics, Machine Learning, Deep Learning, Computer Vision, Natural Language Processing.**
 
 - 📫 How to reach me **rushikeshapatil3919@gmail.com**
 
